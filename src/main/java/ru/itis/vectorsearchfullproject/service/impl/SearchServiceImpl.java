@@ -2,9 +2,9 @@ package ru.itis.vectorsearchfullproject.service.impl;
 
 import lombok.RequiredArgsConstructor;
 import lombok.SneakyThrows;
-import main.java1.ru.itis.vectorsearchfullproject.service.LemmatizerService;
-import main.java1.ru.itis.vectorsearchfullproject.service.ReaderService;
-import main.java1.ru.itis.vectorsearchfullproject.service.SearchService;
+import ru.itis.vectorsearchfullproject.service.LemmatizerService;
+import ru.itis.vectorsearchfullproject.service.ReaderService;
+import ru.itis.vectorsearchfullproject.service.SearchService;
 import org.springframework.stereotype.Service;
 import ru.itis.vectorsearchfullproject.utils.Helper;
 

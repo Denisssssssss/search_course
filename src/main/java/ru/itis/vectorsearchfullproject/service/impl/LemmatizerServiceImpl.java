@@ -6,7 +6,7 @@ import edu.stanford.nlp.pipeline.Annotation;
 import edu.stanford.nlp.pipeline.StanfordCoreNLP;
 import edu.stanford.nlp.util.CoreMap;
 import lombok.RequiredArgsConstructor;
-import main.java1.ru.itis.vectorsearchfullproject.service.LemmatizerService;
+import ru.itis.vectorsearchfullproject.service.LemmatizerService;
 import org.springframework.stereotype.Service;
 
 import java.util.ArrayList;

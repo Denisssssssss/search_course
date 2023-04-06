@@ -3,7 +3,7 @@ package ru.itis.vectorsearchfullproject.service.impl;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import lombok.RequiredArgsConstructor;
 import lombok.SneakyThrows;
-import main.java1.ru.itis.vectorsearchfullproject.service.ReaderService;
+import ru.itis.vectorsearchfullproject.service.ReaderService;
 import org.springframework.stereotype.Service;
 import ru.itis.vectorsearchfullproject.dto.InvertedIndexDataDto;
 
